@@ -23,7 +23,7 @@ purposes. This repository is version controlled using
 ## License Nature
 
 This license is for open-source without copyleft effect license targeting
-experimental and academic uses under `(Holloway) Chew, Kean Ho` where:
+experimental and academic publications under `(Holloway) Chew, Kean Ho` where:
 
 1. Attribution to the copyright holders is required.
 2. The copyright holders are not responsible for anything of any kind.
@@ -54,7 +54,7 @@ experimental and academic uses under `(Holloway) Chew, Kean Ho` where:
    1. retain the copyright notices and effects of the product you use, be it in
       its raw form (e.g. source codes) or its produced form (compiled software
       binary files).
-9. You're not required to expose and upstream your changes back to the
+9. You're NOT REQUIRED to expose and upstream your changes back to the
    copyright holders (Copyleft effect).
 10. You're NOT ALLOWED to use the creators' name, brand, and trademark without
     their written notices for any uses listed above.
@@ -64,8 +64,8 @@ experimental and academic uses under `(Holloway) Chew, Kean Ho` where:
 
 ## Alterations
 
-This version adopt the
-[Open Source Initiative's BSD Zero Clause License](https://opensource.org/license/0bsd)
+This version adopted the
+[Open Source Initiative's BSD 3 Clause License](https://opensource.org/license/bsd-3-clause)
 as its baseline and applies the following changes:
 
 1. Changed `software` to `product` so that the license can be expanded to
@@ -82,7 +82,7 @@ as its baseline and applies the following changes:
 The latest license files shall be referenced and be downloadable from:
 
 ```
-https://doi.org/10.5281/zenodo.13770769
+https://doi.org/10.5281/zenodo.13777226
 ```
 
 
@@ -102,7 +102,7 @@ Copyright (C) YEAR, Legal Name <EMAIL/CONTACTS>
 
 You may obtain a copy of the License at:
 
-                  https://doi.org/10.5281/zenodo.13770769
+                  https://doi.org/10.5281/zenodo.13777226
 
 Upon redistribution and use of the Product in its Raw Forms and Produced Forms,
 with or without modification, You are permitted to do as such provided that the
