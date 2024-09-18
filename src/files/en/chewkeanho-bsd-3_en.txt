@@ -5,7 +5,7 @@ ID:
 chewkeanho-bsd-3
 
 Version:
-v1.0.0
+v1.1.0
 
 By:
 (Holloway) Chew, Kean Ho
@@ -23,8 +23,8 @@ https://zenodo.org/doi/10.5281/zenodo.13777226
 --------------------------------------------------------------------------------
 This Agreement is made on the date and time whichever earliest either
 stipulated or by the first execution of any of the stipulated action
-specified herein the “Covenant Assignment, Ratification, and Tenure” section
-of this Covenant:
+specified herein the “Covenant Assignment, Ratification, and Tenure”
+section of this Covenant:
 BETWEEN
   1. (Holloway) Chew, Kean Ho (Business Reg. No: 202403160286) of
      Seri Kembangan, Malaysia  (hereinafter refers as “HOLLOWAY”)
@@ -44,12 +44,11 @@ AND
 referred to as “Parties”)
 
 WHEREAS:
-  A. The Receiving Parties are desirous of appointing
-     the Provisioning Parties for one or more Products (as defined in this
-     Covenant). At the request of the Receiving Parties,
-     the Provisioning Parties agrees to provide the values and services of
-     the Product to the Receiving Parties upon the terms and subject to the
-     conditions set out in this legal document.
+  A. The Receiving Parties are desirous of appointing the Provisioning Parties
+     for one or more Products (as defined in this Covenant). At the request of
+     the Receiving Parties, the Provisioning Parties agrees to provide the
+     values and services of the Product to the Receiving Parties upon the
+     terms and subject to the conditions set out in this legal document.
 
 NOTE THE PARTIES ARE AGREED as follows:
 
@@ -64,20 +63,20 @@ NOTE THE PARTIES ARE AGREED as follows:
       context used herein.
 
 "Author", "Creator" means the entities involving directly and indirectly
-towards the Content creation, modification, actualization, and realization such
-as but not limited to Us, the publishers, the inventors, the writers,
+towards the Content creation, modification, actualization, and realization
+such as but not limited to Us, the publishers, the inventors, the writers,
 the designers, the editors, the curator, and etc.
 
 "Content" means a literary, an appreciative value, or an artistic property
 (such as but not limited to a book, title, writing, artwork, images, movie,
 website, software, or musical composition) be it in its tangible and/or
 intangible physical form that is capable of being produced, reproduced,
-manufactured, printed, copied, sold, licensed, distributed, transformed
-to another medium, translated, recorded or performed or otherwise use
-(or not use) and to give it to another by will; and is governed by
-Copyrights, Manufacutring laws, intellectual properties laws, and other
-applicable governing laws of Yours and Ours country of operations and
-country of residences.
+manufactured, printed, copied, sold, licensed, distributed,
+transformed to another medium, translated, recorded or performed or
+otherwise use (or not use) and to give it to another by will; and is
+governed by copyrights laws, manufacturing laws,
+intellectual properties laws, and other applicable governing laws of
+Yours and Ours country of operations and country of residences.
 
 "Covenant" means the terms and conditions designated in this legally binding
 document which can be but not limited to a contract, license, agreement,
@@ -112,10 +111,10 @@ cloths, yielded from its production process using its source or raw material
 from such as but not limited to raw vegetables, untreated water,
 software source codes, and balls of threads.
 
-"Product" means a procurable tangible or intangible serviceable goods
-(not to be confused with Service) such as but not limited to physical
-products (example: software, source codes, compiled software binaries &
-libraries, computing devices, graphic materials, Computer Aided Design files,
+"Product" means a procurable tangible or intangible serviceable goods (not
+to be confused with Service) such as but not limited to physical products
+(example: software, source codes, compiled software binaries & libraries,
+computing devices, graphic materials, Computer Aided Design files,
 architecture artifacts, and clothing) and packaged services (example:
 data processing services, content creation services, and repair services)
 offered by Us.
@@ -135,16 +134,16 @@ and etc.
 
 "User Interface" means the end-user interactive facilities designed for You
 to communicate with the Product and/or Service such as but not limited to
-web application; web app; mobile app; books; manuals; smart devices; and
-Our Web Portal.
+web application; web app; mobile app; books; manuals; smart devices; and Our
+Web Portal.
 
 "You", "Yours" means the Receiving Parties.
 
 "Web Portal" means any browse-able Content platforms accessible under the
-domain name hollowaykeanho.com alongside with all its paths
-(e.g. www.hollowaykeanho.com/about) and subdomains
-(e.g. legal.hollowaykeanho.com) of any kinds; or any approved third party
-domains with verifiable back-linking directly from hollowaykeanho.com.
+domain name hollowaykeanho.com alongside with all its paths (e.g.
+www.hollowaykeanho.com/about) and subdomains (e.g. legal.hollowaykeanho.com)
+of any kinds; or any approved third party domains with verifiable back-linking
+directly from hollowaykeanho.com.
 
 "We", "Us", "Our" means the Provisioning Parties and any of their
 subsidiaries, affiliates, or successors.
@@ -160,25 +159,23 @@ subsidiaries, affiliates, or successors.
         2.1.2 procuring the Product from any source with or without Ours’
               authorizations be it directly from Us or from a third-party
               entity regardless of its affiliation with Us; OR
-        2.1.3 using any part of the Content from the Procured Product by
-              any means regardless of any of Our Covenant Grant approval
-              status with You; OR
-        2.1.4 actively or passively reading, analyzing, or reverse
-              engineering the Product with or without Ours’ written
-              authorizations; OR
+        2.1.3 using any part of the Content from the Procured Product by any
+              means regardless of any of Our Covenant Grant approval status
+              with You; OR
+        2.1.4 actively or passively reading, analyzing, or reverse engineering
+              the Product with or without Ours’ written authorizations; OR
         2.1.5 performing Payment upon the Product procurement; OR
         2.1.6 delivering formal written Notice referencing to this Covenant
               signed by You to Us; OR
-        2.1.7 agreement upon any other Product or Service level external
-              terms and conditions extended from this Covenant specified
-              therein.
-  2.2 You are not permitted to assign or novate any or parts of the rights
-      and obligations under the Covenant to any party without Ours’ written
+        2.1.7 agreement upon any other Product or Service level external terms
+              and conditions extended from this Covenant specified therein.
+  2.2 You are not permitted to assign or novate any or parts of the rights and
+      obligations under the Covenant to any party without Ours’ written
       approval.
   2.3 We may assign or novate all or parts of the Covenant to any third party
       by written Notice without prior consent from You and You shall agree
-      to make all subsequent payments (if applicable) and commitment to Us
-      as instructed in such further Notice.
+      to make all subsequent payments (if applicable) and commitment to Us as
+      instructed in such further Notice.
 
 
 3 BSD 3 Clauses License
@@ -190,25 +187,23 @@ subsidiaries, affiliates, or successors.
               following disclaimer; AND
         3.1.2 redistributions of the Product’s Produced Forms must reproduce
               the existing copyright Notice, this list of conditions and the
-              following disclaimer in the documentation and/or other
-              materials provided with the distribution; AND
-        3.1.3 neither the name of any Creator may be used to endorse or
-              promote products derived from this Product without specific
-              prior written permission.
+              following disclaimer in the documentation and/or other materials
+              provided with the distribution; AND
+        3.1.3 neither the name of any Creator may be used to endorse or promote
+              products derived from this Product without specific prior written
+              permission.
   3.2 This Product is provided by the Creators “as is” and any express or
-      implied warranties, including, but not limited to, the implied
-      warranties of merchantability and fitness for a particular purpose
-      are disclaimed.
+      implied warranties, including, but not limited to, the implied warranties
+      of merchantability and fitness for a particular purpose are disclaimed.
   3.3 In no event shall the Creators be liable for any direct, indirect,
       incidental, special, exemplary, or consequential damages (including,
-      but not limited to, procurement of substitute goods or services;
-      loss of use, data, or profits; or business interruption) however
-      caused and on any theory of liability, whether in contract, strict
-      liability, or tort (including negligence or otherwise) arising in any
-      way out of the use of this Product, even if advised of the possibility
-      of such damage.
+      but not limited to, procurement of substitute goods or services; loss of
+      use, data, or profits; or business interruption) however caused and on
+      any theory of liability, whether in contract, strict liability, or tort
+      (including negligence or otherwise) arising in any way out of the use of
+      this Product, even if advised of the possibility of such damage.
 
 
 4 Contact and Support
   4.1 We are reachable via the following channels:
-        4.1.1 Email: hello@hollowaykeanho.com
+        4.1.1 Email: hello@hollowaykeanho.com OR legal@hollowaykeanho.com
