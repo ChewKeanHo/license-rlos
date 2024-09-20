@@ -34,75 +34,76 @@ This repository is version controlled using
 
 ## License Nature
 
-To use this license for your product licensing, you must, in layman terms,
+To use this license for your product licensing, you **MUST**, in layman terms,
 do the following:
 
-1. *You're free to use for personal deployment at your own volition as long
-   as you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+
+1. *You're free to use for personal deployment at your own volition as long as
+   you*:
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect).
+      copyright holders all the way back to us (copyleft effect); AND
 2. *You're free to use for commercial deployment at your own volition as long
    as you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect).
+      copyright holders all the way back to us (copyleft effect); AND
 3. *You're free to edit/modify at your own volition as long as you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect).
 4. *You're free to remix at your own volition as long as you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect).
+      copyright holders all the way back to us (copyleft effect); AND
 5. *You're free to distribute the content at your own volition as long as you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect).
+      copyright holders all the way back to us (copyleft effect); AND
 6. *You're free to re-distribute the content at your own volition as long as
    you*:
-   1. **MUST** Attribute to the copyright holders is required; AND
-   2. accepts that the creators are not responsible for anything of any
-      kind; AND
-   3. shall retain the copyright notices and effects of the product you use, be
-      it in its raw form (e.g. source codes) or its produced form
+   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
+   2. **SHALL** accept that the creators are not responsible for anything of
+      any kind; AND
+   3. **SHALL** retain the copyright notices and effects of the product you
+      use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
-   4. are **NOT ALLOWED** to use the creators' name, brand, and trademark
+   4. **SHALL NOT** use the creators' name, brand, and trademark
       without their written notices for any uses listed above; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect).
