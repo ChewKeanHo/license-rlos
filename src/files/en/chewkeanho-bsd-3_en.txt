@@ -5,7 +5,7 @@ ID:
 chewkeanho-bsd-3
 
 Version:
-v1.1.0
+v2.0.0
 
 By:
 (Holloway) Chew, Kean Ho
@@ -14,53 +14,66 @@ legal@hollowaykeanho.com
 For:
 Legal Entities Procuring Product subjected to this License
 
-Effective from:
-Friday 19 April 2024
-
 Available at:
-https://zenodo.org/doi/10.5281/zenodo.13777226
+https://doi.org/10.5281/zenodo.13777226
 
 --------------------------------------------------------------------------------
-This Agreement is made on the date and time whichever earliest either
-stipulated or by the first execution of any of the stipulated action
-specified herein the “Covenant Assignment, Ratification, and Tenure”
-section of this Covenant:
+This agreement is made on the date and time whichever earliest either
+specifically stipulated or by the first execution of any designated action
+specified in the “Covenant Assignment, Ratification, and Tenure” section of
+this Covenant herein:
 BETWEEN
-  1. (Holloway) Chew, Kean Ho (Business Reg. No: 202403160286) of
-     Seri Kembangan, Malaysia  (hereinafter refers as “HOLLOWAY”)
+  1. The principal Entity (as defined in this Covenant) providing one or more
+     Products (as defined in this Covenant) and/or Services (as defined in
+     this Covenant) directly hereinafter refers as “PRINCIPAL”
+  2. Any Entity (as defined in this Covenant) providing one or more
+     Contribution(s) (as defined in this Covenant) for the betterment of the
+     Product (as defined in this Covenant) directly or indirectly, with or
+     without, independent or dependent of the PRINCIPAL’s involvement or
+     authorizations hereinafter refers as “CONTRIBUTOR”
+  3. Any Entity (as defined in this Covenant) providing Services
+     (as defined in this Covenant) for delivering the values of the Products
+     (as defined in this Covenant) directly or indirectly, with or without,
+     independent or dependent of the PRINCIPAL’s and/or CONTRIBUTOR’s
+     involvement or authorizations hereinafter refers as “CONCIERGE”
+(PRINCIPAL, CONTRIBUTOR, and CONCIERGE shall be collectively referred to as
+“Provisioning Parties”)
 AND
-  1. YOU, where you’re a legally liable entity of whatsoever description
-     including but not limited to an individual, a group of individuals, a
-     sole proprietorship, a partnership, a body corporate, governmental
-     bodies and agencies, or otherwise of any kind established under the
-     laws, rules and/or regulations for the time being in force and which
-     may come into force authorized to use one or more
-     (Holloway) Chew, Kean Ho’s Products subjected to these terms and
-     conditions herein (hereinafter referred as “CLIENT”)
-
+  1. YOU, where you’re a legally liable Entity (as defined in this Covenant)
+     authorized to use one or more Provisioning Parties’ Products
+     (as defined in this Covenant) and/or Services
+     (as defined in this Covenant) subjected to these terms and conditions
+     herein hereinafter referred as “CLIENT”
 (CLIENT shall be collectively referred to as “Receiving Parties”)
-(HOLLOWAY shall be collectively referred to as “Provisioning Parties”)
+
 (the Provisioning Parties and the Receiving Parties shall be collectively
 referred to as “Parties”)
 
 WHEREAS:
   A. The Receiving Parties are desirous of appointing the Provisioning Parties
-     for one or more Products (as defined in this Covenant). At the request of
-     the Receiving Parties, the Provisioning Parties agrees to provide the
-     values and services of the Product to the Receiving Parties upon the
-     terms and subject to the conditions set out in this legal document.
+     for one or more of their Products (as defined in this Covenant) and/or
+     Services (as defined in this Covenant). At the request of the
+     Receiving Parties, the Provisioning Parties agrees to provide the values
+     and services of the Products (as defined in this Covenant) and/or
+     Services (as defined in this Covenant) to the Receiving Parties upon the
+     terms and subject to the conditions set out in this Covenant.
 
 NOTE THE PARTIES ARE AGREED as follows:
 
 
 1 Definitions
-  1.1 Words importing the singular number includes the plural number and vice
-      versa.
-  1.2 Words importing the masculine gender including feminine.
-  1.3 Unless otherwise specified, all capitalized terms shall have the meaning
-      set forth in this Covenant. All other terms not defined herein shall
-      have the meaning as may generally be accepted by industrial based on
-      context used herein.
+    1.1 Words importing the singular number includes the plural number and
+        vice versa.
+    1.2 Words importing the masculine gender including feminine.
+    1.3 Should the Covenant is under version controlled, except when a valid
+        specific version is explicitly reproduced either through the locally
+        available Covenant Notice file or declared and reproduced by the
+        Product itself, the latest and greatest version shall always prevail
+        over all its inferiors.
+    1.4 Unless otherwise specified, all capitalized terms shall have the
+        meaning set forth in this Covenant. All other terms not defined
+        herein shall have the meaning as may generally be accepted by
+        industrial based on context used herein.
 
 "Author", "Creator" means the entities involving directly and indirectly
 towards the Content creation, modification, actualization, and realization
@@ -68,25 +81,50 @@ such as but not limited to Us, the publishers, the inventors, the writers,
 the designers, the editors, the curator, and etc.
 
 "Content" means a literary, an appreciative value, or an artistic property
-(such as but not limited to a book, title, writing, artwork, images, movie,
-website, software, or musical composition) be it in its tangible and/or
-intangible physical form that is capable of being produced, reproduced,
-manufactured, printed, copied, sold, licensed, distributed,
+(such as but not limited to a text, book, title, writing, artwork, images,
+movie, website, software, or musical composition) be it in its tangible
+and/or intangible physical form that is capable of being produced,
+reproduced, manufactured, printed, copied, sold, licensed, distributed,
 transformed to another medium, translated, recorded or performed or
 otherwise use (or not use) and to give it to another by will; and is
-governed by copyrights laws, manufacturing laws,
-intellectual properties laws, and other applicable governing laws of
-Yours and Ours country of operations and country of residences.
+governed by copyrights laws, manufacturing laws, intellectual properties laws,
+and other applicable governing laws of Yours and Ours countries of operation
+and countries of residence.
+
+"Contribute", "Contributing", "Contribution" means the action of producing
+or directly referring to the work of authorship, craftsmanship, goods, and
+services; including the original version of the Product or Service and any
+modifications or additions to that Product or Service or Derivative Product
+or Derivative Service thereof; that is intentionally submitted by the means
+of any form be it electronic, verbal, physical, or written communication
+such as but not limited to logistical goods delivery, communication on
+electronic mailing lists, source code control systems, and issue tracking
+systems to Us for inclusion in the Product or Service by Us or by an Entity
+with submission authority for the work's owner rights with the sole purpose
+of discussing and improving the Product or Service but excluding communication
+that is conspicuously marked or otherwise designated in writing by Us as
+"Not a Contribution."
 
 "Covenant" means the terms and conditions designated in this legally binding
 document which can be but not limited to a contract, license, agreement,
 terms and conditions, terms of use, or privacy policy agreed by You and Us.
 
-"Grant" means the specific and exclusive terms and conditions permitted and
-granted by Us such as but not limited to use rights, the type of ability,
-its effective periods, its limitations and scopes, its conditions of use,
-its prohibitions, terms overrides, terms amendments, and Payment details;
-that are delivered to You strictly in written format.
+"Entity" means the union of the legally liable acting entity and all other
+entities that control, are controlled by, or are under common control with
+that entity where "control" means (i) the power, direct or indirect, to cause
+the direction or management of such entity, whether by contract or otherwise,
+or (ii) ownership of fifty percent (50%) or more of the outstanding shares,
+or (iii) beneficial ownership of such entity such as but not limited to an
+individual, a group of individuals, a sole proprietorship, a partnership,
+a body corporate, governmental bodies and agencies, or otherwise of any kind
+established under the laws, rules and/or regulations for the time being in
+force and which may come into force.
+
+"Grant" means the specific and exclusive terms and conditions such as but not
+limited to use rights, the type of ability, its effective periods, its
+limitations and scopes, its conditions of use, its prohibitions,
+its overriding terms, its amending terms, and Your Payment details approved
+and permitted by Us for You delivered strictly in written format.
 
 "License" means the terms and conditions designated in this legally binding
 document agreed by both You and Us.
@@ -102,108 +140,164 @@ any facilitated Payment Method.
 exchange channels such as, but not limited to: (i) bank transfer;
 (2) e-wallet transfer; (3) credit card charging transfer; (4) cash transfer.
 
-"Procure" means the action of obtaining a Product either though the means
-of Purchase or provided freely by Us.
+"Procure" means the action of obtaining a Product either though the means of
+Purchase or provided freely by Us.
 
-"Produced Form" means the subject is in its produced form or state such as
-but not limited to a meal, drinkable water, software binary form, and
-cloths, yielded from its production process using its source or raw material
-from such as but not limited to raw vegetables, untreated water,
-software source codes, and balls of threads.
+"Produced Form means the subject is in its processed form or state such as but
+not limited to a meal, drinkable water, software binary form, and cloths
+yielded from its production process using its source or raw material from such
+as but not limited to raw vegetables, untreated water, software source codes,
+and balls of threads.
 
-"Product" means a procurable tangible or intangible serviceable goods (not
-to be confused with Service) such as but not limited to physical products
+"Product" means a procurable tangible or intangible serviceable goods
+(not to be confused with Service) such as but not limited to physical products
 (example: software, source codes, compiled software binaries & libraries,
 computing devices, graphic materials, Computer Aided Design files,
 architecture artifacts, and clothing) and packaged services (example:
 data processing services, content creation services, and repair services)
 offered by Us.
 
-"Purchase" means the action of obtaining a Product via the means of
-performing one or more Payment.
+"Purchase" means the action of obtaining a Product via the means of performing
+one or more Payment.
 
 "Raw Form" means the subject is in its source or raw material form or state
 such as but not limited to raw vegetables, untreated water, software source
 codes, and ball of threads that is meant for its production process to yield
-its produced form such as but not limited to a meal, drinkable water,
+its processed form or state such as but not limited to a meal, drinkable water,
 compiled software binary form, and a cloth.
 
-"Service" means the required customer services offered by Us in order to
-deliver a procured Product such as but not limited to logistics, concierge,
-and etc.
+"Service" means the required customer services offered by Us in order to deliver
+a procured Product such as but not limited to logistics, concierge, and etc.
 
-"User Interface" means the end-user interactive facilities designed for You
-to communicate with the Product and/or Service such as but not limited to
-web application; web app; mobile app; books; manuals; smart devices; and Our
-Web Portal.
+"User Interface" means the end-user interactive facilities designed for You to
+communicate with the Product and/or Service such as but not limited to web
+application; web app; mobile app; books; manuals; smart devices; and
+Our Web Portal.
 
 "You", "Yours" means the Receiving Parties.
 
-"Web Portal" means any browse-able Content platforms accessible under the
-domain name hollowaykeanho.com alongside with all its paths (e.g.
-www.hollowaykeanho.com/about) and subdomains (e.g. legal.hollowaykeanho.com)
-of any kinds; or any approved third party domains with verifiable back-linking
-directly from hollowaykeanho.com.
+"Web Portal" means any browse-able Content platforms accessible via computer
+network locally or remotely under a domain name (e.g. hollowaykeanho.com) or
+an IP address of any version
+(e.g. 127.0.0.1 or 0000:0000:0000:0000:0000:0000:0000:0001) alongside with
+all its paths (e.g. www.hollowaykeanho.com/about) and all its
+subdomains (e.g. legal.hollowaykeanho.com) of any kinds directly from Us and
+indirectly from Our approved third-party service providers.
 
-"We", "Us", "Our" means the Provisioning Parties and any of their
-subsidiaries, affiliates, or successors.
+"We", "Us", "Our" means the Provisioning Parties and any of their subsidiaries,
+affiliates, or successors.
 
 
 2 Covenant Assignment, Ratification, and Tenure
-  2.1 This Covenant shall be ratified by You, be effective, and be in-force
-      until terminated according to these terms and conditions starting on
-      the date and time whichever earliest from one or more the explicitly
-      specified actions herein such as but not limited to:
-        2.1.1 fulfilling checkbox in web form submission from any of Our
-              supported User Interfaces; OR
-        2.1.2 procuring the Product from any source with or without Ours’
-              authorizations be it directly from Us or from a third-party
-              entity regardless of its affiliation with Us; OR
-        2.1.3 using any part of the Content from the Procured Product by any
-              means regardless of any of Our Covenant Grant approval status
-              with You; OR
-        2.1.4 actively or passively reading, analyzing, or reverse engineering
-              the Product with or without Ours’ written authorizations; OR
-        2.1.5 performing Payment upon the Product procurement; OR
-        2.1.6 delivering formal written Notice referencing to this Covenant
-              signed by You to Us; OR
-        2.1.7 agreement upon any other Product or Service level external terms
-              and conditions extended from this Covenant specified therein.
-  2.2 You are not permitted to assign or novate any or parts of the rights and
-      obligations under the Covenant to any party without Ours’ written
-      approval.
-  2.3 We may assign or novate all or parts of the Covenant to any third party
-      by written Notice without prior consent from You and You shall agree
-      to make all subsequent payments (if applicable) and commitment to Us as
-      instructed in such further Notice.
+    2.1 This Covenant shall be ratified by You, be effective, and be in-force
+        until terminated according to these terms and conditions starting on
+        the date and time whichever earliest from one or more the explicitly
+        specified actions herein such as but not limited to:
+          2.1.1 fulfilling checkbox in web form submission from any of Our
+                supported User Interfaces; OR
+          2.1.2 procuring the Product from any source with or without Ours’
+                authorizations be it directly from Us or from a third-party
+                Entity regardless of its affiliation with Us; OR
+          2.1.3 using any part of the Content from the Procured Product by
+                any means regardless of any of Our Covenant Grant approval
+                status with You; OR
+          2.1.4 actively or passively reading, analyzing, or reverse
+                engineering the Product with or without Ours’ written
+                authorizations; OR
+          2.1.5 performing Payment upon the Product procurement; OR
+          2.1.6 delivering formal written Notice referencing to this Covenant
+                signed by You to Us; OR
+          2.1.7 agreement upon any other Product or Service level external
+                terms and conditions extended from this Covenant specified
+                therein.
+    2.2 You are not permitted to assign or novate any or parts of the rights and
+        obligations under the Covenant to any party without Ours’ written
+        approval.
+    2.3 We may assign or novate all or parts of the Covenant to any third party
+        by written Notice without prior consent from You and You shall agree to
+        make all subsequent payments (if applicable) and commitment to Us as
+        instructed in such further Notice.
 
 
-3 BSD 3 Clauses License
-  3.1 Upon redistribution and use of the Product in its Raw Forms and
-      Produced Forms, with or without modification, You are permitted to do
-      as such provided that the following conditions are met:
-        3.1.1 redistributions of the Product’s Raw Forms must retain the
-              existing copyright Notice, this list of conditions and the
-              following disclaimer; AND
-        3.1.2 redistributions of the Product’s Produced Forms must reproduce
-              the existing copyright Notice, this list of conditions and the
-              following disclaimer in the documentation and/or other materials
-              provided with the distribution; AND
-        3.1.3 neither the name of any Creator may be used to endorse or promote
-              products derived from this Product without specific prior written
-              permission.
-  3.2 This Product is provided by the Creators “as is” and any express or
-      implied warranties, including, but not limited to, the implied warranties
-      of merchantability and fitness for a particular purpose are disclaimed.
-  3.3 In no event shall the Creators be liable for any direct, indirect,
-      incidental, special, exemplary, or consequential damages (including,
-      but not limited to, procurement of substitute goods or services; loss of
-      use, data, or profits; or business interruption) however caused and on
-      any theory of liability, whether in contract, strict liability, or tort
-      (including negligence or otherwise) arising in any way out of the use of
-      this Product, even if advised of the possibility of such damage.
+3 Grant of Copyright License
+    3.1 Upon redistribution and use of the Product in its Raw Forms and
+        Produced Forms, with or without modification, You are permitted to do
+        as such provided that the following conditions are met:
+          3.1.1 redistributions of the Product’s Raw Forms must retain the
+                existing copyright Notice, this list of conditions and the
+                following disclaimer; AND
+          3.1.2 redistributions of the Product’s Produced Forms must reproduce
+                the existing copyright Notice, this list of conditions and the
+                following disclaimer in the documentation and/or other
+                materials provided with the distribution; AND
+          3.1.3 neither the name of any Creator may be used to endorse or
+                promote products derived from this Product without specific
+                prior written permission.
 
 
-4 Contact and Support
-  4.1 We are reachable via the following channels:
-        4.1.1 Email: hello@hollowaykeanho.com OR legal@hollowaykeanho.com
+4 Disclaimer of Warranty
+    4.1 This Product is provided by the Creators “as is” and any express or
+        implied warranties, including, but not limited to, the implied
+        warranties of merchantability and fitness for a particular purpose
+        are disclaimed.
+
+
+5 Limitation of Liability
+    5.1 In no event shall the Creators be liable for any direct, indirect,
+        incidental, special, exemplary, or consequential damages (including,
+        but not limited to, procurement of substitute goods or services;
+        loss of use, data, or profits; or business interruption) however
+        caused and on any theory of liability, whether in contract,
+        strict liability, or tort (including negligence or otherwise)
+        arising in any way out of the use of this Product, even if advised
+        of the possibility of such damage.
+
+
+6 Applying the Covenant to Your Product
+    6.1 To apply this Covenant to Your Product, You shall attach the
+        following boilerplate Notice, with the fields enclosed by
+        brackets “[]” replaced with your own identifying information without
+        including the brackets themselves.
+--------------------------------------------------------------------------------
+Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
+
+Licensed under the (Holloway) Chew, Kean Ho’s BSD 3 Clauses License
+(the "License"); you may not use this file except in compliance with the
+License. You may obtain a copy of the License at
+
+                 https://doi.org/10.5281/zenodo.13777226
+
+Upon redistribution and use of the Product in its Raw Forms and Produced Forms,
+with or without modification, You are permitted to do as such provided that the
+following conditions are met:
+(1) redistributions of the Product’s Raw Forms must retain the existing
+    copyright Notice, this list of conditions and the following disclaimer; AND
+
+(2) redistributions of the Product’s Produced Forms must reproduce the existing
+    copyright Notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the distribution; AND
+
+(3) neither the name of any Creator may be used to endorse or promote products
+    derived from this Product without specific prior written permission.
+
+THIS PRODUCT IS PROVIDED BY THE CREATORS “AS IS” AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL THE CREATORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS PRODUCT, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+--------------------------------------------------------------------------------
+  6.2 In lieu with Clause 6.1, the text should be enclosed in the appropriate
+      comment syntax for the file format.
+  6.3 We also recommend that a file or class name and description of purpose
+      be included on the same “printed page” as the copyright Notice for
+      easier identification within third-party archives.
+
+
+7 Contact and Support
+  7.1 We are reachable via the following channels:
+        7.1.1 Email: hello@hollowaykeanho.com OR legal@hollowaykeanho.com
