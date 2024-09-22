@@ -1,12 +1,12 @@
 cff-version: "1.2.0"
 type: "software"
-date-released: "2024-09-20"
-title: "(Holloway) Chew, Kean Ho's BSD 3 Clauses License"
-version: "2.0.1"
+date-released: "2024-09-23"
+title: "(Holloway) Chew, Kean Ho's Research & Libre License"
+version: "3.0.0"
 license: "CC-BY-ND-4.0"
-repository: "https://github.com/ChewKeanHo/license-bsd-3"
-repository-code: "https://github.com/ChewKeanHo/license-bsd-3"
-repository-artifact: "https://github.com/ChewKeanHo/license-bsd-3/releases"
+repository: "https://github.com/ChewKeanHo/license-rlos"
+repository-code: "https://github.com/ChewKeanHo/license-rlos"
+repository-artifact: "https://github.com/ChewKeanHo/license-rlos/releases"
 url: "https://doi.org/10.5281/zenodo.13777226"
 contact:
   - affiliation: "(Holloway) Chew, Kean Ho"
@@ -15,7 +15,7 @@ contact:
 abstract: |-
   An experimentation and academic friendly open-source license for
   "(Holloway) Chew, Kean Ho" (https://github.com/chewkeanho) product
-  licensing purposes. This version adopt the Open Source Initiative's
+  licensing purposes. This license was adopted from the Open Source Initiative's
   BSD 3 Clauses License (https://opensource.org/license/bsd-3-clause) as its
   baseline and applies the following changes:
 
@@ -50,7 +50,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (1.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (1.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect); AND
   (2) You're free to use for commercial deployment at your own volition as long
@@ -63,7 +63,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (2.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (2.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect); AND
   (3) You're free to edit/modify at your own volition as long as you:
@@ -75,7 +75,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (3.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (3.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect); AND
   (4) You're free to remix at your own volition as long as you:
@@ -87,7 +87,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (4.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (4.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect); AND
   (5) You're free to distribute the content at your own volition as long as
@@ -100,7 +100,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (5.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (5.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect); AND
   (6) You're free to re-distribute the content at your own volition as long
@@ -113,7 +113,7 @@ abstract: |-
             you use, be it in its raw form (e.g. source codes) or its produced
             form (compiled software binary files); AND
       (6.4) **SHALL NOT** use the creators' name, brand, and trademark without
-            their written notices for any uses listed above; AND
+            their written notices for any endorsement of your pursue; AND
       (6.5) are **NOT REQUIRED** to expose and upstream your changes back to
             the copyright holders all the way back to us (copyleft effect).
 message: |-
@@ -131,5 +131,6 @@ identifiers:
 keywords:
   - "Product"
   - "License"
-  - "BSD 3 Clauses"
-  - "Adopt & Modify"
+  - "Research & Libre"
+  - "Libre"
+  - "Research"

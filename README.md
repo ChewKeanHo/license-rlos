@@ -1,8 +1,8 @@
-# (Holloway) Chew, Kean Ho's BSD 3 Clauses License
+# (Holloway) Chew, Kean Ho's Research and Libre License
 
-An experimentation and academic friendly open-source license for
+An experimentation and research friendly open-source license for
 [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
-purposes. This version adopt the
+purposes. This license was adopted from the
 [Open Source Initiative's BSD 3 Clauses License](https://opensource.org/license/bsd-3-clause)
 as its baseline and applies the following changes:
 
@@ -13,6 +13,10 @@ as its baseline and applies the following changes:
    and how is the license applied; AND
 3. Added version controlled clauses for which version shall be in effect by
    default.
+
+This license was formally known as
+`(Holloway) Chew, Kean Ho BSD 3 Clauses License` but was ultimately renamed as
+such to keep its SPDX identifier consistent with the others.
 
 
 
@@ -47,7 +51,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 2. *You're free to use for commercial deployment at your own volition as long
@@ -59,7 +63,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 3. *You're free to edit/modify at your own volition as long as you*:
@@ -70,7 +74,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect).
 4. *You're free to remix at your own volition as long as you*:
@@ -81,7 +85,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 5. *You're free to distribute the content at your own volition as long as you*:
@@ -92,7 +96,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 6. *You're free to re-distribute the content at your own volition as long as
@@ -104,7 +108,7 @@ do the following:
       use, be it in its raw form (e.g. source codes) or its produced form
       (compiled software binary files); AND
    4. **SHALL NOT** use the creators' name, brand, and trademark
-      without their written notices for any uses listed above; AND
+      without their written notices for any endorsement of your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect).
 
