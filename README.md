@@ -1,5 +1,15 @@
 # (Holloway) Chew, Kean Ho's Research and Libre License
 
+> **IMPORTANT NOTICE**
+>
+> **THIS REPOSITORY IS FULLY DEPRECATED AND IS ARCHIVED ONLY FOR EDUCATION USE**
+>
+> As other version of licenses are released, it makes no sense to continue
+> developing this license. In fact, this license is now converged into
+> [(Holloway) Chew, Kean Ho's Permissive License](https://doi.org/10.5281/zenodo.13788522).
+> Please use that license.
+
+
 A published research and experimentation friendly open-source license
 originally for [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but
 is now open to all product licensing purposes. This license was referenced from
